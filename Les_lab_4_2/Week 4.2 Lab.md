@@ -103,3 +103,5 @@ Draw the schematics with the logic gates, electronic and breadboard.
 
 26. What binary value has to be send to the shift resistor to turn LED 2, 4, 5 and 8 on?
 > 0 1 0 1 1 0 0 1
+> 
+> Einde (test git)
